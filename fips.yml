@@ -1,0 +1,6 @@
+# slmem
+---
+
+exports:
+    header-dirs:
+        - include
