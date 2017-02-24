@@ -4,3 +4,5 @@
 exports:
     header-dirs:
         - include
+    modules:
+        slmem: .
